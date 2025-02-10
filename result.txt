@@ -1,0 +1,383 @@
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "LS1;");
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "RN0;");
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "RN1;");
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "RN2;");
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "RN3;");
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "RN4;");
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "RM0;");
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "RM1;");
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "RM2;");
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "RM3;");
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "RM4;");
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "RM5;");
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "RA0;");
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "RA1;");
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "RA2;");
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "RA3;");
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "RA4;");
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "ZT1;");
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "MC2;");
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "RP0;");
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "RP1;");
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "RP2;");
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "RP3;");
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "RP4;");
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "TS0;");
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "VL8;");
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "VL1,0;");
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "VL1,1;");
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "VL1,2;");
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "VL1,3;");
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "VL1,4;");
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "VL5,0;");
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "VL5,1;");
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "VL5,2;");
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "VL5,3;");
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "VL5,4;");
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "BF1;");
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "VR0;");
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "VR1;");
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "VR2;");
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "VR3;");
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "VR4;");
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "SB20;"); // VacBoard -> PC -> To CncBoard
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "SB21;"); // VacBoard -> PC -> To CncBoard
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCom); // Sbr Command
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData, 0x1F);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCNCData, 0x00);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "RG0,1;"); // GUN  HV DISABLED
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "RG1,1;"); // PMT  HV DISABLED
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "RG2,1;"); // SCIN HV DISABLED
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "RG3,1;"); // COLL HV DISABLED
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "PS1;");
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "SB0;");
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "RG0,1;"); // GUN  HV DISABLED
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "RG1,1;"); // PMT  HV DISABLED
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "RG2,1;"); // SCIN HV DISABLED
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "RG3,1;"); // COLL HV DISABLED
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "PS1;"); // Sbr Command
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "PD;");  // Sbr Command
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "SB0;"); // Sbr Command
+AfxFT232HPortSendCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, cWR_OUTPORT, m_pIntegrated->nSbrCommand); // Sbr Command
+AfxFT232HPortSendCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, cWR_OUTPORT, m_pIntegrated->nSbrCommand); // Sbr Command
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "SR6,", m_pIntegrated->nXScanAmpVal[m_pIntegrated->nScanMode]); // X Scan Amp
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "SR6,", nAmp); // X Scan Amp
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "SR7,", m_pIntegrated->nXScanOffset[m_pIntegrated->nScanMode]); // X Scan Offset
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "SR7,", nOffset); // X Scan Offset
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "SR8,", m_pIntegrated->nYScanAmpVal[m_pIntegrated->nScanMode]); // Y Scan Amp
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "SR8,", nAmp); // Y Scan Amp
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "SR9,", m_pIntegrated->nYScanOffset[m_pIntegrated->nScanMode]); // Y Scan Offset
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "SR9,", nOffset); // Y Scan Offset
+AfxFT232HPortSendMultiCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, wCom_Buf, 6); // Sbr Scan Clock Data 전송
+AfxFT232HPortSendMultiCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, wCom_Buf, 4); // Sbr Scan Clock Data 전송
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "HV1;");   // Sbr Data 전송
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "SB5,1;"); // ScanBridgeBoard -> CncVacBoard (EM40)
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "HV0;");   // Sbr Data 전송
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "SB5,0;"); // ScanBridgeBoard -> CncVacBoard (EM40)
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "RG0,0;"); // Sbr Data 전송
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "RG0,1;"); // Sbr Data 전송
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "AV", nVoltage);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "AV", nVoltage);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "AV", nVoltage);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "AV", nVoltage);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "AV", nVoltage);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "HV1;");   // Sbr Data 전송
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "HV0;");   // Sbr Data 전송
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "FL0,1;");   // Sbr Data 전송
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "FL0,0;");   // Sbr Data 전송
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "BV", m_pIntegrated->nBiasExeValue);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "BV", m_pIntegrated->nBiasExeValue);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "BV", nBVCount);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "FV", m_pIntegrated->nFilamentExeValue);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "FV", m_pIntegrated->nFilamentExeValue);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "FV", nFVCount);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "RG3,0;"); // Sbr Data 전송
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "RG3,1;"); // Sbr Data 전송
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "ZM0,", m_pIntegrated->nZoomXValue); // Sbr Data 전송
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "ZM1,", m_pIntegrated->nZoomYValue); // Sbr Data 전송
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "DF0,", m_pIntegrated->nDynamicFocusA); // Sbr Data 전송
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "DF1,", m_pIntegrated->nDynamicFocusB); // Sbr Data 전송
+AfxFT232HPortSendCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, cWR_OUTPORT, m_pIntegrated->nSbrCommand); // Sbr Command
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "SR5,", m_pIntegrated->nOrthogonal); // Sbr Data 전송
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "SR4,", m_pIntegrated->nOrthogonal); // Sbr Data 전송
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "SR10,", m_pIntegrated->nGunScanRelay); // Sbr Data 전송
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "SR0,", nSRotHX); // Sbr Data 전송
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "SR1,", nSRotVX); // Sbr Data 전송
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "SR2,", nSRotHY); // Sbr Data 전송
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "SR3,", nSRotVY); // Sbr Data 전송
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "VS;");   // Sbr Data 전송
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "PS0;"); // Sbr Data 전송
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "PS;");  // Sbr Command
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "PS1;"); // Sbr Command
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "PD;");  // Sbr Command
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "SB0;"); // Sbr Command
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "PS;");  // Sbr Command
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "PS1;"); // Sbr Command
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "PD;");  // Sbr Command
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "SB0;"); // Sbr Command
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCom); // Sbr Command
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCom); // Sbr Command
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCom); // Sbr Command
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCom); // Sbr Command
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCom); // Sbr Command
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCom); // Sbr Command
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCom); // Sbr Command
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCom); // Sbr Command
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCom);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCom);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCom); // Sbr Command
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCom); // Sbr Command
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCom); // Sbr Command
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCom); // Sbr Command
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCom);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCom);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCom);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCom);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCom);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCom);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCom);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCom);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCom);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SEM_IMAGE_DEVICE, "MA5,", m_pIntegrated->btImageAvrBPort); // SE-Image Command 전송
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "RG2,0;"); // Sbr Data 전송
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SEM_IMAGE_DEVICE, "MA5,", m_pIntegrated->btImageAvrBPort); // SE-Image Command 전송
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "RG2,1;"); // Sbr Data 전송
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SEM_IMAGE_DEVICE, "MA5,", m_pIntegrated->btImageAvrBPort); // SE-Image Command 전송
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "RG1,0;"); // Sbr Data 전송
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SEM_IMAGE_DEVICE, "MA5,", m_pIntegrated->btImageAvrBPort); // SE-Image Command 전송
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "RG1,1;"); // Sbr Data 전송
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_RelayCntl, m_pIntegrated->wRelayState); // SE-Image Command 전송
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SEM_IMAGE_DEVICE, "MA5,", m_pIntegrated->btImgRelayState); // SE-Image Command 전송
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_RelayCntl, m_pIntegrated->wRelayState); // SE-Image Command 전송
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SEM_IMAGE_DEVICE, "MA5,", m_pIntegrated->btImgRelayState); // SE-Image Command 전송
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SEM_IMAGE_DEVICE, "MA5,", m_pIntegrated->btImageAvrBPort); // SE-Image Command 전송
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SEM_IMAGE_DEVICE, "MA5,", m_pIntegrated->btImageAvrBPort); // SE-Image Command 전송
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_RelayCntl, m_pIntegrated->wRelayState); // SE-Image Command 전송
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SEM_IMAGE_DEVICE, "MA5,", m_pIntegrated->btImgRelayState); // SE-Image Command 전송
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SEM_IMAGE_DEVICE, "MA5,", m_pIntegrated->btImgRelayState); // SE-Image Command 전송
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_RelayCntl, m_pIntegrated->wRelayState); // SE-Image Command 전송
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SEM_IMAGE_DEVICE, "MA5,", m_pIntegrated->btImgRelayState); // SE-Image Command 전송
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SEM_IMAGE_DEVICE, "MA5,", m_pIntegrated->btImgRelayState); // SE-Image Command 전송
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SEM_IMAGE_DEVICE, "MA5,", m_pIntegrated->btImageAvrBPort); // SE-Image Command 전송
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SEM_IMAGE_DEVICE, "MA5,", m_pIntegrated->btImageAvrBPort); // SE-Image Command 전송
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "AE10;"); // Sbr Data 전송
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "AE0;"); // Sbr Data 전송
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_AD5361, m_pIntegrated->nAD5361ContrastValue); // SE-Image Command 전송
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "RF", m_pIntegrated->nContrastValue); // Sbr Data 전송
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_AD5361, AD5361_PMT + (4096 << 3)); // SE-Image Command 전송
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_AD5361, m_pIntegrated->nAD5361BrightnessValue); // SE-Image Command 전송
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "PO0;"); // Sbr Data 전송
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "PO1;"); // Sbr Data 전송
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "PO2;"); // Sbr Data 전송
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_OUTPORT, m_pIntegrated->nSeCommandValue);
+AfxFT232HPortSendCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, cWR_OUTPORT, m_pIntegrated->nSbrCommandState);
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_OUTPORT, m_pIntegrated->nSeCommandValue); // SE-Image Command 전송
+AfxFT232HPortSendCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, cWR_OUTPORT, m_pIntegrated->nSbrCommandState); // Sbr Data 전송
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_OUTPORT, m_pIntegrated->nSeCommandValue); // m_SeCommand : 실행
+AfxFT232HPortSendCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, cWR_OUTPORT, m_pIntegrated->nSbrCommandState);  // m_CommandState : 실행
+AfxFT232HPortSendCommand(IDX_FT232H_BSE_IMAGE_DEVICE, cWR_OUTPORT, m_pIntegrated->nBseCommandValue);
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_OUTPORT, m_pIntegrated->nSeCommandValue); // m_SeCommand : 실행
+AfxFT232HPortSendCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, cWR_OUTPORT, m_pIntegrated->nSbrCommandState);  // m_CommandState : 실행
+AfxFT232HPortSendCommand(IDX_FT232H_BSE_IMAGE_DEVICE, cWR_OUTPORT, m_pIntegrated->nBseCommandValue);
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_OUTPORT, m_pIntegrated->nSeCommandValue); // SE-Image Command 전송
+AfxFT232HPortSendCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, cWR_OUTPORT, m_pIntegrated->nSbrCommandState); // Sbr Command 전송
+AfxFT232HPortSendCommand(IDX_FT232H_BSE_IMAGE_DEVICE, bWR_OUTPORT, m_pIntegrated->nBseCommandValue); // BSE-Image Command 전송
+AfxFT232HPortSendMultiCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, wComBuf, 6); // Sbr Scan Clock Data 전송
+AfxFT232HPortSendMultiCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, wComBuf, 4);
+AfxFT232HPortSendMultiCommand(IDX_FT232H_SEM_IMAGE_DEVICE, wComBuf, 4);
+AfxFT232HPortSendMultiCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, wComBuf, 24);
+AfxFT232HPortSendMultiCommand(IDX_FT232H_BSE_IMAGE_DEVICE, wBseBuf, 4);
+AfxFT232HPortSendMultiCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, wComBuf, 4);
+AfxFT232HPortSendMultiCommand(IDX_FT232H_SEM_IMAGE_DEVICE, wComBuf, 4);
+AfxFT232HPortSendMultiCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, wComBuf, 24);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "MG", nMag); // Sbr Data 전송
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "ZM0,", nXMag); // Sbr Data 전송
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "ZM1,", nYMag); // Sbr Data 전송
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "ZM2,", m_pIntegrated->wRelayState); // Sbr Data 전송
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_AD5361, AD5361_CL1 + (4095 - m_pIntegrated->wCL1 << 3));
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_AD5361, AD5361_CL2 + (4095 - m_pIntegrated->wCL2 << 3));
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_AD5361, AD5361_OLC + (m_pIntegrated->nFocusCoarse + 4096 << 3)); // 2020.02.18 계산식 오류 발견 --> ((m_pIntegrated->nFocusCoarse + 4096) << 3)
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_AD5361, AD5361_OLF + (2048 - 128 + m_pIntegrated->nFocusFine << 4)); // 2020.02.18 계산식 오류 발견 --> ((2048 - (128 + m_pIntegrated->nFocusFine)) << 4));
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_AD5361, AD5361_OLC + (nCoarse + 4096 << 3)); // 2020.02.18 계산식 오류 발견 --> ((m_pIntegrated->nFocusCoarse + 4096) << 3)
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_AD5361, AD5361_OLC + nWobbblerCoarse);// ((nWobbblerCoarse + 4096) << 3));
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_AD5361, AD5361_STX + nWobbblerStigX);// ((nWobbblerStigX) << 4));
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_AD5361, AD5361_STY + nWobbblerStigY);// ((nWobbblerStigY) << 4));
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_AD5361, AD5361_CL1 + (4095 - m_nDA_CL1[m_pIntegrated->nSpotSize - 1] << 3));
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_AD5361, AD5361_CL2 + (4095 - m_nDA_CL2[m_pIntegrated->nSpotSize - 1] << 3));
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_AD5361, AD5361_OLC + (m_nWobblerTable[m_pIntegrated->nWobbleCount] + m_pIntegrated->nFocusCoarse + 4096 << 3));
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_AD5361, AD5361_EC + 0xC0000);
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_AD5361, AD5361_ISX + (m_pIntegrated->nISXValue << 4));
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_AD5361, AD5361_ISY + (m_pIntegrated->nISYValue << 4));
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_AD5361, AD5361_GAX + (m_pIntegrated->nGAXValue << 4));
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_AD5361, AD5361_GAY + (m_pIntegrated->nGAYValue << 4));
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_AD5361, AD5361_BAX + (m_pIntegrated->nBAXValue << 4));
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_AD5361, AD5361_BAY + (m_pIntegrated->nBAYValue << 4));
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_AD5361, AD5361_STX + (m_pIntegrated->nStigXValue << 4));
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_AD5361, AD5361_STY + (m_pIntegrated->nStigYValue << 4));
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_AD5361, AD5361_GAX + (2048 << 4));
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_AD5361, AD5361_GAY + (2048 << 4));
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_AD5361, AD5361_BAX + (2048 << 4));
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_AD5361, AD5361_BAY + (2048 << 4));
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_AD5361, AD5361_CL1 + (4095 << 3));
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_AD5361, AD5361_CL2 + (4095 << 3));
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_AD5361, AD5361_OLC + (4095 << 3));
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_AD5361, AD5361_OLF + (2048 << 4));
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_AD5361, AD5361_STX + (2048 << 4));
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_AD5361, AD5361_STY + (2048 << 4));
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_AD5361, AD5361_ISX + (2048 << 4));
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_AD5361, AD5361_ISY + (2048 << 4));
+AfxFT232HPortSendCommand(IDX_FT232H_BSE_IMAGE_DEVICE, bWR_AD5724, 0x10000F);
+AfxFT232HPortSendCommand(IDX_FT232H_BSE_IMAGE_DEVICE, bWR_AD5724, 0x080004);
+AfxFT232HPortSendCommand(IDX_FT232H_BSE_IMAGE_DEVICE, bWR_AD5724, 0x090004);
+AfxFT232HPortSendCommand(IDX_FT232H_BSE_IMAGE_DEVICE, bWR_AD5724, 0x0A0004);
+AfxFT232HPortSendCommand(IDX_FT232H_BSE_IMAGE_DEVICE, bWR_AD5724, 0x0B0004);
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "AE3;");
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_OUTPORT, m_pIntegrated->nSeCommandValue);
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_OUTPORT, m_pIntegrated->nSeCommandValue);
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_OUTPORT, m_pIntegrated->nSeCommandValue);
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_OUTPORT, m_pIntegrated->nSeCommandValue);
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_OUTPORT, m_pIntegrated->nSeCommandValue);
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_OUTPORT, m_pIntegrated->nSeCommandValue);
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_OUTPORT, m_pIntegrated->nSeCommandValue);
+AfxFT232HPortSendCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, cWR_OUTPORT, m_pIntegrated->nSbrCommandState);
+AfxFT232HPortSendCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, cWR_OUTPORT, m_pIntegrated->nSbrCommandState);
+AfxFT232HPortSendCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, cWR_OUTPORT, m_pIntegrated->nSbrCommandState);
+AfxFT232HPortSendCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, cWR_OUTPORT, m_pIntegrated->nSbrCommandState);
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_OUTPORT, m_pIntegrated->nSeCommandValue);
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_OUTPORT, m_pIntegrated->nSeCommandValue);
+AfxFT232HPortSendCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, cWR_OUTPORT, m_pIntegrated->nSbrCommandState);
+AfxFT232HPortSendCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, cWR_OUTPORT, m_pIntegrated->nSbrCommandState);
+AfxFT232HPortSendCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, cWR_OUTPORT, m_pIntegrated->nSbrCommandState);
+AfxFT232HPortSendCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, cWR_OUTPORT, m_pIntegrated->nSbrCommandState);
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cSKIP_NUM_LOAD, m_pIntegrated->nSkipPixNum[m_pIntegrated->nScanMode]);
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cOS_NUM_LOAD, m_pIntegrated->nOverSampleNum[m_pIntegrated->nScanMode]);
+AfxFT232HPortSendMultiCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, wCom_Buf, 6); // Sbr Scan Clock Data 전송
+AfxFT232HPortSendMultiCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, wCom_Buf, 4); // Sbr Scan Clock Data 전송
+AfxFT232HPortSendMultiCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, wCom_Buf, 6); // Sbr Scan Clock Data 전송
+AfxFT232HPortSendMultiCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, wCom_Buf, 4); // Sbr Scan Clock Data 전송
+AfxFT232HPortSendMultiCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, wCom_Buf, 24); // Sbr X-Y Waveform Data 전송
+AfxFT232HPortSendMultiCommand(IDX_FT232H_SEM_IMAGE_DEVICE, wComBuf, 4);
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_OUTPORT, m_pIntegrated->nSeCommandValue); // SE-Image Command 전송
+AfxFT232HPortSendCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, cWR_OUTPORT, m_pIntegrated->nSbrCommandState); // Sbr Data 전송
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_AD5361, AD5361_EC + (wECVal + 4096 << 3));
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "RP0;");
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, "RP1;");
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_OUTPORT, nAcSyncSECommand);
+AfxFT232HPortSendCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, cWR_OUTPORT, nAcSyncSBRCommand);
+AfxFT232HPortSendCommand(IDX_FT232H_SEM_IMAGE_DEVICE, cWR_OUTPORT, m_pIntegrated->nSeCommandValue); // SE-Image Command 전송
+AfxFT232HPortSendCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, cWR_OUTPORT, m_pIntegrated->nSbrCommandState); // Sbr Command 전송
+AfxFT232HPortSendMultiCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, wComBuf, 6); // Sbr Scan Clock Data 전송
+AfxFT232HPortSendMultiCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, wComBuf, 4);
+AfxFT232HPortSendMultiCommand(IDX_FT232H_SEM_IMAGE_DEVICE, wComBuf, 4);
+AfxFT232HPortSendMultiCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, wComBuf, 24);
+AfxFT232HPortSendMultiCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, wComBuf, 4);
+AfxFT232HPortSendMultiCommand(IDX_FT232H_SEM_IMAGE_DEVICE, wComBuf, 4);
+AfxFT232HPortSendMultiCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, wComBuf, 24);
+AfxFT232HPortSendCommand(pThreadParams->nFT232HIndex, cWR_AD5361, AD5361_OLF + (2048 - 128 + nFine << 4));
+AfxFT232HPortSendCommand(pThreadParams->nFT232HIndex, cWR_AD5361, AD5361_OLC + (nCoarse + 4096 << 3));
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCom); // Sbr Command
+AfxFT232HPortSendAvrCommand(IDX_FT232H_SCAN_BRIDGE_DEVICE, szCom); // Sbr Command
